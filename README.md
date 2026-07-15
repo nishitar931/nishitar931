@@ -8,7 +8,7 @@ I am a passionate CS Engineering student focused on building robust full-stack w
 
 - **College Counseling Prediction Portal:** A rank-based eligibility filtering application using an SQLite backend to help students match with historical university cutoff data across multiple allocation rounds.
 - **AI-Powered Job Search Agent:** Building and managing automated career research tools integrated with LLM agents on GitHub.
-- **Digital Safety Innovations:** Designed a conceptual solution for an anonymous image-hashing platform to improve digital privacy and content removal efficiency.
+
 
 ---
 
